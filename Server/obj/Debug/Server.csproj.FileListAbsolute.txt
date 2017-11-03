@@ -1,0 +1,9 @@
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/bin/Debug/Server.exe.config
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/bin/Debug/Server.exe
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/bin/Debug/Server.pdb
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.Form1.resources
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.Properties.Resources.resources
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.csproj.GenerateResource.Cache
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.csproj.CoreCompileInputs.cache
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.exe
+/Users/Tincuta/Desktop/PAD/PADLab1/Server/obj/Debug/Server.pdb

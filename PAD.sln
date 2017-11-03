@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Broker", "Broker\Broker.csproj", "{944AC20E-7520-48F0-832E-4AAB2A3BDC14}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfete", "Interfete\Interfete.csproj", "{52E96585-D143-4EBB-A759-AD27EC5BDB52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{944AC20E-7520-48F0-832E-4AAB2A3BDC14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{944AC20E-7520-48F0-832E-4AAB2A3BDC14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{944AC20E-7520-48F0-832E-4AAB2A3BDC14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{944AC20E-7520-48F0-832E-4AAB2A3BDC14}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52E96585-D143-4EBB-A759-AD27EC5BDB52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52E96585-D143-4EBB-A759-AD27EC5BDB52}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52E96585-D143-4EBB-A759-AD27EC5BDB52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52E96585-D143-4EBB-A759-AD27EC5BDB52}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

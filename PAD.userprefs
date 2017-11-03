@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{6BB8F271-B5C3-470F-9780-0725BA0A0BF8}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Broker/Form1.cs">
+    <Files>
+      <File FileName="Client/Networking.cs" Line="1" Column="1" />
+      <File FileName="Client/Form1.Designer.cs" Line="15" Column="10" />
+      <File FileName="Broker/FileSystem.cs" Line="1" Column="1" />
+      <File FileName="Broker/Form1.cs" Line="59" Column="13" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Client PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>
